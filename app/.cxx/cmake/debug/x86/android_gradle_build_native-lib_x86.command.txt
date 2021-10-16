@@ -1,0 +1,7 @@
+Executable : D:\soft\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\code\github\zsw_code\NDK_Day01\app\.cxx\cmake\debug\x86
+native-lib
+jvmArgs : 
+

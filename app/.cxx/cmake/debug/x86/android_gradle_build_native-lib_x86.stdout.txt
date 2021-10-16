@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\code\github\zsw_code\NDK_Day01\app\.cxx\cmake\debug\x86'
+ninja: no work to do.
